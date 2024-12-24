@@ -1,6 +1,4 @@
-# Nama Proyek Laravel
-
-Deskripsi singkat tentang proyek Anda.
+# Nama Service Motor
 
 ## Prerequisites
 
