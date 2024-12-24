@@ -1,4 +1,4 @@
-# Nama Service Motor
+# Service Motor
 
 ## Prerequisites
 
